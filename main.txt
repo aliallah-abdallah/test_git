@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void fun1(void);
+void fun2(void);
+
+void main(void)
+{
+	printf("Hello World");
+}
+//branch for imolement fun1
+
+//branch for imolement fun1
